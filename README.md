@@ -3,7 +3,7 @@ StrtUp.Dev
 
 StrtUp.Dev is the landing page for the domain. Work on this site requires dependancies.
 
-![alt text](https://imgur.com/a/sKICIjW)
+<img src="./screenshotstrtup.png" alt="screenshot" width="400"/>
 
 
 Table of Contents
